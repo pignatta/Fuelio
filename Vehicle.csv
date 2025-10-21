@@ -1,0 +1,2 @@
+"Name","Description","DistUnit","FuelUnit","ConsumptionUnit","ImportCSVDateFormat","VIN","Insurance","Plate","Make","Model","Year","TankCount","Tank1Type","Tank2Type","Active","Tank1Capacity","Tank2Capacity","FuelUnitTank2","FuelConsumptionTank2"
+"Punto Evo","La Punto di Federico","0","4","3","yyyy-MM-dd","","","DZ595XP","FIAT","Punto Evo","2010","2","500","100","1","16.0","45.0","0","3"
